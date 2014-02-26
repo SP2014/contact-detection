@@ -1,0 +1,11 @@
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\bin\Debug\TrackingHand.exe
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\bin\Debug\TrackingHand.pdb
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\MainWindow.baml
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\App.g.cs
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\TrackingHand_MarkupCompile.cache
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\TrackingHand.g.resources
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\TrackingHand.Properties.Resources.resources
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\TrackingHand.csproj.GenerateResource.Cache
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\TrackingHand.exe
+C:\Users\Junyang\AppData\Local\Temporary Projects\TrackingHand\obj\x86\Debug\TrackingHand.pdb

@@ -1,0 +1,10 @@
+﻿<Window x:Class="TrackingHand.KinectPlacementDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KinectPlacementDialog" Height="300" Width="300">
+    <StackPanel>
+        <TextBlock Text="Where did you put the Kinect?" />
+        <Button Content="Left" Click="Left_Button_Click" Height="30" />
+        <Button Content="Right" Click="Right_Button_Click" Height="30" />
+    </StackPanel>
+</Window>

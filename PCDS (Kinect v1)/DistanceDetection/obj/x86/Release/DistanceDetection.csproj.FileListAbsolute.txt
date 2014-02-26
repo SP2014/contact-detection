@@ -1,0 +1,14 @@
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\bin\Release\DistanceDetection.exe
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\bin\Release\DistanceDetection.pdb
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\bin\Release\GestureRecognizer.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\bin\Release\GestureRecognizer.pdb
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\DistanceDetection.csprojResolveAssemblyReference.cache
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\MainWindow.baml
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\MainWindow.g.cs
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\App.g.cs
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\DistanceDetection_MarkupCompile.cache
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\DistanceDetection.g.resources
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\TrackingHand.Properties.Resources.resources
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\DistanceDetection.csproj.GenerateResource.Cache
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\DistanceDetection.exe
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\DistanceDetection\obj\x86\Release\DistanceDetection.pdb
