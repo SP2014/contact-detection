@@ -1,5 +1,0 @@
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\bin\Release\GestureRecognizer.dll
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\bin\Release\GestureRecognizer.pdb
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\obj\Release\GestureRecognizer.csprojResolveAssemblyReference.cache
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\obj\Release\GestureRecognizer.dll
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\obj\Release\GestureRecognizer.pdb

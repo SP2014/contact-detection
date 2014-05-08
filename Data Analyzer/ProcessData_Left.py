@@ -323,12 +323,15 @@ fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
     
 ax.scatter(xs_l1, zs_l1, ys_l1, c='g', marker='x')
-ax.scatter(xs_r1, zs_r1, ys_r1, c='r', marker='x')
-ax.scatter(xs_l2, zs_l2, ys_l2, c='y', marker='+')
+ax.scatter(xs_r1, zs_r1, ys_r1, c='r', marker='+')
+ax.scatter(xs_l2, zs_l2, ys_l2, c='y', marker='x')
 ax.scatter(xs_r2, zs_r2, ys_r2, c='b', marker='+')
 ax.set_xlim([0,2.5])
 ax.set_ylim([0,2.5])
 ax.set_zlim([0,2.5])# 1 m height of the box
+ax._axis3don = False # Hide axis information
+
+
 
 #Draw the frame of the bed
 plt.plot([0,width],[length,length])
@@ -342,9 +345,9 @@ VecEnd_y = [length,  length,  length,   length,  0,      0,     length,length,0,
 VecEnd_z  =[0,       0,       height,        height,       height,      height,     height,     height,     height,      height, 0,      0]
 for i in range(12):
     ax.plot([VecStart_x[i], VecEnd_x[i]], [VecStart_y[i],VecEnd_y[i]],zs=[VecStart_z[i],VecEnd_z[i]])
-ax.set_xlabel('X Label')
-ax.set_ylabel('z Label')
-ax.set_zlabel('Y Label')
+ax.set_xlabel('(X)')
+ax.set_ylabel('(Z)')
+ax.set_zlabel('(Y)')
 plt.show()
 
 # Write Data to Output File

@@ -1,4 +1,0 @@
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\bin\Debug\GestureRecognizer.dll
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\bin\Debug\GestureRecognizer.pdb
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\obj\Debug\GestureRecognizer.dll
-C:\Users\Junyang\Documents\Visual Studio 2010\Projects\DistanceDetection - Single\GestureRecognizer\obj\Debug\GestureRecognizer.pdb
